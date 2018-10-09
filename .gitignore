@@ -1,0 +1,10 @@
+node_modules
+npm-debug.log.*
+.vscode
+personal
+*.js
+*.js.map
+*.d.ts
+.nyc_output
+coverage
+*.code-workspace
